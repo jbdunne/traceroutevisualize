@@ -1,4 +1,2 @@
 # traceroutevisualize
-Visualizing Traceroutes 
-= = = = = = = = = = = =
-Written in Python
+Visualizing Traceroutes. Written in Python.
